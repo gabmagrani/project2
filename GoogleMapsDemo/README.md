@@ -1,4 +1,4 @@
-# vue3-router-vuex-tw-starter
+# project2
 
 ## Project setup
 ```
