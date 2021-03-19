@@ -9,6 +9,6 @@ window.axios = require('axios');
 
 createApp(App).use(store).use(router).use(VueGoogleMaps, {
     load: {
-        key:'AIzaSyB1dmrwKYjC9tPAlcpiUZKlC7GowMjfKiY'
+        key:'YOUR KEY COMES HERE'
     },
 }).mount('#app')
